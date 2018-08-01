@@ -1,0 +1,18 @@
+.day {
+    width: 150px;
+    height: 150px;
+    outline: 1px solid cornflowerblue;
+    overflow: auto;
+}
+
+.week {
+    display: flex;
+}
+
+.calendar {
+    padding: 30px;
+}
+
+.focused-reminder {
+    background: aqua;
+}
