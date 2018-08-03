@@ -1,3 +1,8 @@
+## Senior React Developer Calendar Challenge
+
+This is my attempt to complete the [An Example Senior React/Redux Developer Task](https://developerjobsboard.co.uk/2018/07/28/an-example-senior-react-redux-developer-task/). The challenge is time-limited to 1.5 hours. It features adding, selecting, and deleting reminders. I didn't have enough time to make reminders editable. 
+## Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

@@ -1,6 +1,6 @@
 {
-  "name": "senior-react-challenge",
-  "version": "0.1.0",
+  "name": "senior-react-developer-calendar-challenge",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^16.4.1",
