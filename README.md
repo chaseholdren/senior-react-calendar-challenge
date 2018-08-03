@@ -1,6 +1,6 @@
 ## Senior React Developer Calendar Challenge
 
-This is my attempt to complete the [An Example Senior React/Redux Developer Task](https://developerjobsboard.co.uk/2018/07/28/an-example-senior-react-redux-developer-task/). The challenge is time-limited to 1.5 hours. It features adding, selecting, and deleting reminders. I didn't have enough time to make reminders editable. 
+This is my attempt to complete the challenge described in this article: [An Example Senior React/Redux Developer Task](https://developerjobsboard.co.uk/2018/07/28/an-example-senior-react-redux-developer-task/). The challenge is time-limited to 1.5 hours. It features adding, selecting, and deleting reminders. I didn't have enough time to make reminders editable. 
 
 Here's what it looks like:
 
